@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="480">
+<style>text{font-family:'Source Han Serif K';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(4,285)" font-size="95" style="fill:rgb(60, 80, 139)">联储</text>
+<text transform="translate(74,174) rotate(-90)" font-size="86" style="fill:rgb(58, 186, 118)">市场</text>
+<text transform="translate(50,361)" font-size="74" style="fill:rgb(33, 166, 133)">通胀</text>
+<text transform="translate(1,426)" font-size="63" style="fill:rgb(63, 72, 137)">下降</text>
+<text transform="translate(270,128) rotate(-90)" font-size="63" style="fill:rgb(31, 159, 136)">美国</text>
+<text transform="translate(81,178)" font-size="55" style="fill:rgb(40, 125, 142)">增长</text>
+<text transform="translate(8,465)" font-size="37" style="fill:rgb(129, 211, 77)">房地产</text>
+<text transform="translate(217,267)" font-size="37" style="fill:rgb(66, 190, 113)">情况</text>
+<text transform="translate(131,411)" font-size="37" style="fill:rgb(63, 72, 137)">预期</text>
+<text transform="translate(134,71)" font-size="36" style="fill:rgb(72, 33, 115)">股市</text>
+<text transform="translate(225,431)" font-size="36" style="fill:rgb(47, 107, 142)">回升</text>
+<text transform="translate(242,340) rotate(-90)" font-size="35" style="fill:rgb(82, 197, 105)">投资</text>
+<text transform="translate(284,202) rotate(-90)" font-size="34" style="fill:rgb(72, 29, 111)">导致</text>
+<text transform="translate(105,126) rotate(-90)" font-size="34" style="fill:rgb(38, 173, 129)">经济</text>
+<text transform="translate(285,394) rotate(-90)" font-size="34" style="fill:rgb(66, 65, 134)">政策</text>
+<text transform="translate(138,465)" font-size="32" style="fill:rgb(62, 76, 138)">中国</text>
+<text transform="translate(132,117)" font-size="31" style="fill:rgb(61, 77, 138)">持续</text>
+<text transform="translate(212,457)" font-size="26" style="fill:rgb(37, 133, 142)">消费</text>
+<text transform="translate(200,147)" font-size="26" style="fill:rgb(45, 113, 142)">加息</text>
+<text transform="translate(2,193)" font-size="26" style="fill:rgb(68, 191, 112)">影响</text>
+<text transform="translate(81,24)" font-size="26" style="fill:rgb(36, 170, 131)">支持</text>
+<text transform="translate(247,293)" font-size="25" style="fill:rgb(69, 56, 130)">衰退</text>
+<text transform="translate(196,364)" font-size="17" style="fill:rgb(63, 188, 115)">意味着</text>
+<text transform="translate(217,223)" font-size="17" style="fill:rgb(149, 216, 64)">月份</text>
+<text transform="translate(13,314)" font-size="17" style="fill:rgb(137, 213, 72)">银行</text>
+<text transform="translate(207,383)" font-size="17" style="fill:rgb(57, 86, 140)">政府</text>
+<text transform="translate(141,15)" font-size="16" style="fill:rgb(63, 71, 136)">美国 经济</text>
+<text transform="translate(92,467)" font-size="16" style="fill:rgb(36, 134, 142)">复苏</text>
+<text transform="translate(137,427)" font-size="16" style="fill:rgb(90, 200, 100)">GS UEA</text>
+<text transform="translate(229,470)" font-size="12" style="fill:rgb(186, 222, 40)">GS Daily</text>
+<text transform="translate(71,191)" font-size="12" style="fill:rgb(253, 231, 37)">降息</text>
+<text transform="translate(15,341)" font-size="12" style="fill:rgb(72, 33, 115)">确实</text>
+<text transform="translate(80,47)" font-size="12" style="fill:rgb(69, 53, 129)">实际上</text>
+<text transform="translate(265,315)" font-size="12" style="fill:rgb(34, 167, 133)">利率</text>
+<text transform="translate(34,420)" font-size="12" style="fill:rgb(31, 151, 139)">近期</text>
+<text transform="translate(294,39) rotate(-90)" font-size="12" style="fill:rgb(59, 187, 117)">失业率</text>
+<text transform="translate(1,428)" font-size="12" style="fill:rgb(31, 153, 138)">水平</text>
+<text transform="translate(274,223)" font-size="12" style="fill:rgb(48, 106, 142)">企业</text>
+<text transform="translate(48,149)" font-size="12" style="fill:rgb(37, 133, 142)">大幅</text>
+<text transform="translate(224,198) rotate(-90)" font-size="12" style="fill:rgb(236, 229, 27)">未来</text>
+<text transform="translate(20,373)" font-size="12" style="fill:rgb(197, 224, 33)">就业</text>
+<text transform="translate(143,197)" font-size="12" style="fill:rgb(149, 216, 64)">原因</text>
+<text transform="translate(189,164)" font-size="12" style="fill:rgb(69, 53, 129)">风险</text>
+<text transform="translate(270,448)" font-size="12" style="fill:rgb(226, 228, 24)">数据</text>
+<text transform="translate(211,41) rotate(-90)" font-size="12" style="fill:rgb(34, 168, 132)">房价</text>
+<text transform="translate(273,100)" font-size="12" style="fill:rgb(208, 225, 28)">预测</text>
+<text transform="translate(109,194)" font-size="12" style="fill:rgb(60, 79, 138)">BCA</text>
+<text transform="translate(33,93)" font-size="12" style="fill:rgb(72, 31, 112)">走弱</text>
+<text transform="translate(94,60)" font-size="12" style="fill:rgb(241, 229, 29)">进一步</text>
+<text transform="translate(230,163)" font-size="12" style="fill:rgb(71, 45, 123)">调整</text>
+<text transform="translate(202,472)" font-size="12" style="fill:rgb(68, 57, 131)">ECB</text>
+<text transform="translate(221,433) rotate(-90)" font-size="12" style="fill:rgb(39, 126, 142)">货币政策</text>
+<text transform="translate(1,402)" font-size="12" style="fill:rgb(96, 202, 96)">特别</text>
+<text transform="translate(291,87) rotate(-90)" font-size="12" style="fill:rgb(42, 120, 142)">格林斯潘</text>
+<text transform="translate(188,259)" font-size="12" style="fill:rgb(38, 130, 142)">希腊</text>
+<text transform="translate(35,122)" font-size="12" style="fill:rgb(59, 81, 139)">预计</text>
+<text transform="translate(106,110)" font-size="12" style="fill:rgb(33, 165, 133)">这是</text>
+<text transform="translate(89,206)" font-size="12" style="fill:rgb(68, 2, 86)">央行</text>
+<text transform="translate(54,175)" font-size="12" style="fill:rgb(62, 76, 138)">历史</text>
+<text transform="translate(186,206) rotate(-90)" font-size="12" style="fill:rgb(72, 27, 109)">放缓</text>
+<text transform="translate(5,294)" font-size="12" style="fill:rgb(34, 141, 141)">Fed</text>
+<text transform="translate(127,475)" font-size="12" style="fill:rgb(31, 162, 135)">全球</text>
+<text transform="translate(85,266)" font-size="12" style="fill:rgb(127, 211, 78)">股票</text>
+<text transform="translate(193,237)" font-size="12" style="fill:rgb(50, 182, 122)">趋势</text>
+<text transform="translate(118,439)" font-size="12" style="fill:rgb(35, 136, 142)">担心</text>
+<text transform="translate(163,84)" font-size="10" style="fill:rgb(49, 181, 123)">经济 增长</text>
+<text transform="translate(163,38)" font-size="10" style="fill:rgb(41, 121, 142)">指标</text>
+<text transform="translate(276,115)" font-size="10" style="fill:rgb(59, 81, 139)">上涨</text>
+<text transform="translate(165,373)" font-size="10" style="fill:rgb(70, 48, 126)">PIMCO</text>
+<text transform="translate(73,238)" font-size="10" style="fill:rgb(59, 81, 139)">伯南克</text>
+<text transform="translate(203,115) rotate(-90)" font-size="10" style="fill:rgb(127, 211, 78)">流动性</text>
+<text transform="translate(4,85)" font-size="10" style="fill:rgb(71, 19, 101)">关键</text>
+<text transform="translate(293,472) rotate(-90)" font-size="10" style="fill:rgb(69, 5, 89)">依然</text>
+<text transform="translate(223,396)" font-size="10" style="fill:rgb(155, 217, 60)">油价</text>
+<text transform="translate(10,205)" font-size="9" style="fill:rgb(34, 140, 141)">投资者</text>
+<text transform="translate(107,122)" font-size="9" style="fill:rgb(68, 57, 131)">压力</text>
+<text transform="translate(172,300)" font-size="9" style="fill:rgb(57, 85, 140)">需求</text>
+<text transform="translate(42,242)" font-size="9" style="fill:rgb(54, 92, 141)">发生</text>
+<text transform="translate(40,351)" font-size="9" style="fill:rgb(52, 182, 121)">紧缩</text>
+<text transform="translate(163,128)" font-size="7" style="fill:rgb(53, 94, 141)">全球 经济</text>
+<text transform="translate(207,281) rotate(-90)" font-size="7" style="fill:rgb(86, 198, 103)">长期</text>
+<text transform="translate(284,199)" font-size="7" style="fill:rgb(72, 22, 104)">库存</text>
+<text transform="translate(64,295)" font-size="7" style="fill:rgb(202, 225, 31)">杠杆</text>
+<text transform="translate(58,93)" font-size="7" style="fill:rgb(229, 228, 25)">短期</text>
+<text transform="translate(130,174)" font-size="7" style="fill:rgb(72, 26, 108)">估计</text>
+<text transform="translate(5,323)" font-size="7" style="fill:rgb(41, 121, 142)">中国 经济</text>
+<text transform="translate(255,325) rotate(-90)" font-size="7" style="fill:rgb(59, 81, 139)">变化</text>
+<text transform="translate(61,474)" font-size="7" style="fill:rgb(72, 29, 111)">货币</text>
+<text transform="translate(4,475)" font-size="7" style="fill:rgb(51, 99, 141)">GDP</text>
+<text transform="translate(138,210)" font-size="7" style="fill:rgb(60, 79, 138)">包括</text>
+<text transform="translate(96,215)" font-size="7" style="fill:rgb(36, 134, 142)">改善</text>
+<text transform="translate(285,132) rotate(-90)" font-size="7" style="fill:rgb(69, 4, 87)">结束</text>
+<text transform="translate(32,141)" font-size="7" style="fill:rgb(72, 27, 109)">欧洲</text>
+<text transform="translate(94,274)" font-size="7" style="fill:rgb(71, 46, 124)">价格</text>
+<text transform="translate(133,82)" font-size="7" style="fill:rgb(176, 221, 47)">周期</text>
+<text transform="translate(72,158)" font-size="7" style="fill:rgb(38, 130, 142)">回落</text>
+<text transform="translate(227,193)" font-size="7" style="fill:rgb(37, 171, 130)">显示</text>
+<text transform="translate(126,337) rotate(-90)" font-size="7" style="fill:rgb(69, 4, 87)">通胀 压力</text>
+<text transform="translate(61,202)" font-size="7" style="fill:rgb(210, 226, 27)">增加</text>
+<text transform="translate(133,140)" font-size="7" style="fill:rgb(57, 85, 140)">居民</text>
+<text transform="translate(74,428)" font-size="7" style="fill:rgb(69, 53, 129)">面临</text>
+<text transform="translate(226,202)" font-size="7" style="fill:rgb(76, 194, 108)">金融市场</text>
+<text transform="translate(247,303)" font-size="7" style="fill:rgb(32, 146, 140)">最终</text>
+<text transform="translate(138,127)" font-size="7" style="fill:rgb(72, 33, 115)">FOMC</text>
+<text transform="translate(196,308)" font-size="7" style="fill:rgb(71, 17, 100)">出口</text>
+<text transform="translate(189,176)" font-size="7" style="fill:rgb(44, 177, 126)">讨论</text>
+<text transform="translate(53,400)" font-size="7" style="fill:rgb(38, 130, 142)">因素</text>
+<text transform="translate(134,374)" font-size="7" style="fill:rgb(69, 4, 87)">美元</text>
+<text transform="translate(155,467)" font-size="7" style="fill:rgb(192, 223, 37)">冲击</text>
+<text transform="translate(195,325)" font-size="7" style="fill:rgb(32, 164, 134)">整体</text>
+<text transform="translate(211,121)" font-size="7" style="fill:rgb(71, 16, 99)">年底</text>
+<text transform="translate(294,180) rotate(-90)" font-size="7" style="fill:rgb(64, 70, 136)">联储 加息</text>
+<text transform="translate(8,249) rotate(-90)" font-size="7" style="fill:rgb(110, 206, 88)">市场 预期</text>
+<text transform="translate(184,344)" font-size="7" style="fill:rgb(239, 229, 28)">两个</text>
+<text transform="translate(123,293)" font-size="7" style="fill:rgb(165, 219, 54)">债券</text>
+<text transform="translate(294,135) rotate(-90)" font-size="7" style="fill:rgb(176, 221, 47)">财政</text>
+<text transform="translate(125,274) rotate(-90)" font-size="7" style="fill:rgb(112, 207, 87)">债券 收益率</text>
+<text transform="translate(268,324)" font-size="7" style="fill:rgb(57, 86, 140)">ISM</text>
+<text transform="translate(146,32)" font-size="7" style="fill:rgb(44, 115, 142)">危机</text>
+<text transform="translate(154,476)" font-size="7" style="fill:rgb(62, 73, 137)">market</text>
+<text transform="translate(124,458)" font-size="7" style="fill:rgb(47, 108, 142)">难以</text>
+<text transform="translate(238,171)" font-size="7" style="fill:rgb(62, 74, 137)">年初</text>
+<text transform="translate(204,343)" font-size="7" style="fill:rgb(49, 103, 142)">将会</text>
+<text transform="translate(2,410)" font-size="7" style="fill:rgb(47, 108, 142)">是因为</text>
+<text transform="translate(157,436)" font-size="7" style="fill:rgb(49, 103, 142)">解释</text>
+<text transform="translate(192,186)" font-size="7" style="fill:rgb(67, 61, 132)">抑制</text>
+<text transform="translate(8,164) rotate(-90)" font-size="7" style="fill:rgb(71, 14, 97)">企业 投资</text>
+<text transform="translate(4,371)" font-size="7" style="fill:rgb(82, 197, 105)">季度</text>
+<text transform="translate(35,60)" font-size="7" style="fill:rgb(43, 116, 142)">总体</text>
+<text transform="translate(8,355) rotate(-90)" font-size="7" style="fill:rgb(71, 17, 100)">欧债 危机</text>
+<text transform="translate(38,472)" font-size="7" style="fill:rgb(205, 225, 29)">欧元区</text>
+<text transform="translate(180,434)" font-size="7" style="fill:rgb(216, 226, 25)">反弹</text>
+<text transform="translate(111,34)" font-size="7" style="fill:rgb(45, 112, 142)">盈利</text>
+<text transform="translate(115,95) rotate(-90)" font-size="7" style="fill:rgb(39, 173, 129)">通胀 预期</text>
+<text transform="translate(13,11)" font-size="7" style="fill:rgb(78, 195, 107)">增速</text>
+<text transform="translate(269,233)" font-size="7" style="fill:rgb(53, 183, 121)">risk</text>
+<text transform="translate(159,261)" font-size="7" style="fill:rgb(30, 157, 137)">信贷</text>
+<text transform="translate(51,387)" font-size="7" style="fill:rgb(216, 226, 25)">EM</text>
+<text transform="translate(74,141)" font-size="7" style="fill:rgb(37, 172, 130)">迹象</text>
+<text transform="translate(35,428)" font-size="7" style="fill:rgb(144, 215, 67)">inflation</text>
+<text transform="translate(181,143)" font-size="7" style="fill:rgb(39, 128, 142)">很大</text>
+<text transform="translate(179,474)" font-size="7" style="fill:rgb(50, 101, 142)">观点</text>
+<text transform="translate(140,230)" font-size="7" style="fill:rgb(32, 146, 140)">看法</text>
+<text transform="translate(116,389)" font-size="7" style="fill:rgb(86, 198, 103)">关注</text>
+<text transform="translate(264,207)" font-size="6" style="fill:rgb(32, 147, 140)">消费者 信心</text>
+<text transform="translate(210,209)" font-size="6" style="fill:rgb(72, 33, 115)">ffr</text>
+<text transform="translate(105,288) rotate(-90)" font-size="6" style="fill:rgb(56, 185, 119)">乐观</text>
+<text transform="translate(249,230)" font-size="6" style="fill:rgb(70, 51, 127)">强劲</text>
+<text transform="translate(194,433)" font-size="6" style="fill:rgb(37, 171, 130)">德国</text>
+<text transform="translate(245,395)" font-size="6" style="fill:rgb(40, 124, 142)">下跌</text>
+<text transform="translate(20,225)" font-size="6" style="fill:rgb(76, 194, 108)">程度</text>
+<text transform="translate(233,344)" font-size="6" style="fill:rgb(60, 80, 139)">growth</text>
+<text transform="translate(68,7)" font-size="6" style="fill:rgb(184, 222, 41)">恶化</text>
+<text transform="translate(286,145)" font-size="6" style="fill:rgb(110, 206, 88)">拖累</text>
+<text transform="translate(23,474)" font-size="6" style="fill:rgb(71, 19, 101)">恢复</text>
+<text transform="translate(29,166)" font-size="6" style="fill:rgb(37, 133, 142)">investor</text>
+<text transform="translate(19,349)" font-size="6" style="fill:rgb(31, 151, 139)">表现</text>
+<text transform="translate(96,223)" font-size="6" style="fill:rgb(223, 227, 24)">估值</text>
+<text transform="translate(246,363)" font-size="6" style="fill:rgb(132, 212, 75)">解决</text>
+<text transform="translate(137,292)" font-size="6" style="fill:rgb(142, 214, 69)">不错</text>
+<text transform="translate(222,65)" font-size="6" style="fill:rgb(90, 200, 100)">生产率</text>
+<text transform="translate(20,242)" font-size="6" style="fill:rgb(94, 201, 98)">源于</text>
+<text transform="translate(159,276)" font-size="6" style="fill:rgb(103, 204, 92)">房贷</text>
+<text transform="translate(77,475)" font-size="6" style="fill:rgb(56, 89, 140)">潜在 增速</text>
+<text transform="translate(295,351) rotate(-90)" font-size="6" style="fill:rgb(61, 78, 138)">资产 价格</text>
+<text transform="translate(110,372)" font-size="6" style="fill:rgb(72, 29, 111)">宽松</text>
+<text transform="translate(40,323)" font-size="6" style="fill:rgb(64, 189, 114)">扩张</text>
+<text transform="translate(7,61)" font-size="6" style="fill:rgb(40, 124, 142)">提高</text>
+<text transform="translate(294,392) rotate(-90)" font-size="6" style="fill:rgb(40, 124, 142)">就业 市场</text>
+<text transform="translate(295,321) rotate(-90)" font-size="6" style="fill:rgb(43, 117, 142)">金融 条件</text>
+<text transform="translate(268,455)" font-size="6" style="fill:rgb(66, 190, 113)">贷款</text>
+<text transform="translate(117,446)" font-size="6" style="fill:rgb(34, 139, 141)">bwam</text>
+<text transform="translate(191,286) rotate(-90)" font-size="6" style="fill:rgb(94, 201, 98)">私人 部门</text>
+<text transform="translate(295,260) rotate(-90)" font-size="6" style="fill:rgb(31, 153, 138)">边缘 国家</text>
+<text transform="translate(7,313) rotate(-90)" font-size="6" style="fill:rgb(62, 73, 137)">消费者</text>
+<text transform="translate(162,23)" font-size="6" style="fill:rgb(43, 117, 142)">减少</text>
+<text transform="translate(84,297)" font-size="6" style="fill:rgb(80, 196, 106)">CPI</text>
+<text transform="translate(148,82)" font-size="6" style="fill:rgb(244, 230, 30)">降低</text>
+<text transform="translate(7,457) rotate(-90)" font-size="6" style="fill:rgb(33, 166, 133)">联储 降息</text>
+<text transform="translate(248,475)" font-size="5" style="fill:rgb(39, 127, 142)">财政 刺激</text>
+<text transform="translate(21,163) rotate(-90)" font-size="5" style="fill:rgb(71, 19, 101)">net percent</text>
+<text transform="translate(135,181)" font-size="5" style="fill:rgb(37, 133, 142)">工资</text>
+<text transform="translate(45,329)" font-size="5" style="fill:rgb(55, 90, 140)">资产</text>
+<text transform="translate(297,69) rotate(-90)" font-size="5" style="fill:rgb(59, 82, 139)">Bank Credit</text>
+</svg>
